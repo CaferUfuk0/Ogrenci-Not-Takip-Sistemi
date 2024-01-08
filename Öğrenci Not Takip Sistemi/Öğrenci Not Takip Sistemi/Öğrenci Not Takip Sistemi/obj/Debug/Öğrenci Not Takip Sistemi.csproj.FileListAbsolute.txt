@@ -1,0 +1,36 @@
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\Debug\Öğrenci Not Takip Sistemi.exe.config
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\Debug\Öğrenci Not Takip Sistemi.exe
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\Debug\Öğrenci Not Takip Sistemi.pdb
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci_Not_Takip_Sistemi.Giris.resources
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci_Not_Takip_Sistemi.NotHesaplama.resources
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci_Not_Takip_Sistemi.OgrenciBilgileri.resources
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci_Not_Takip_Sistemi.Properties.Resources.resources
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.exe
+C:\Users\Ufuk AYDINLIOĞLU\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.pdb
+C:\Users\user\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci_Not_Takip_Sistemi.Giris.resources
+C:\Users\user\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci_Not_Takip_Sistemi.NotHesaplama.resources
+C:\Users\user\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci_Not_Takip_Sistemi.OgrenciBilgileri.resources
+C:\Users\user\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci_Not_Takip_Sistemi.Properties.Resources.resources
+C:\Users\user\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\Debug\Öğrenci Not Takip Sistemi.exe.config
+C:\Users\user\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\Debug\Öğrenci Not Takip Sistemi.exe
+C:\Users\user\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\Debug\Öğrenci Not Takip Sistemi.pdb
+C:\Users\user\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.exe
+C:\Users\user\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.pdb
+C:\Users\SYZNG\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\Debug\Öğrenci Not Takip Sistemi.exe.config
+C:\Users\SYZNG\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\Debug\Öğrenci Not Takip Sistemi.exe
+C:\Users\SYZNG\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\bin\Debug\Öğrenci Not Takip Sistemi.pdb
+C:\Users\SYZNG\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.csproj.AssemblyReference.cache
+C:\Users\SYZNG\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci_Not_Takip_Sistemi.Giris.resources
+C:\Users\SYZNG\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci_Not_Takip_Sistemi.OgrenciBilgileri.resources
+C:\Users\SYZNG\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci_Not_Takip_Sistemi.Properties.Resources.resources
+C:\Users\SYZNG\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\SYZNG\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\SYZNG\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.exe
+C:\Users\SYZNG\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci Not Takip Sistemi.pdb
+C:\Users\SYZNG\Desktop\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\Öğrenci Not Takip Sistemi\obj\Debug\Öğrenci_Not_Takip_Sistemi.Ayarlar.resources

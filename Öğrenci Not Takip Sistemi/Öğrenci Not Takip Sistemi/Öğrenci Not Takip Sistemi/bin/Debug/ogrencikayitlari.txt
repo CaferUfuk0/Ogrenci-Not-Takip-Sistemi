@@ -1,0 +1,6 @@
+Servet,Sarı,145,B,50.5
+Kaan,Gür,657,E,63.25
+Ali,Kaya,553,A,58
+Ahmet,Yavuz,897,A,25.5
+Kerem,Ulus,663,H,68
+Mehmet,Kara,464,C,0
